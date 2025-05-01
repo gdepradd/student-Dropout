@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model
-model = joblib.load('./model.pkl')
+model = joblib.load('model/model.pkl')
 
 # Fitur penting
 important_features = [
