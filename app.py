@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model
-model = joblib.load('/media/gede/2nd SSD/LaskarAI/Submission/PenDataScience/Submission 2/model.pkl')
+model = joblib.load('Submission 2/model.pkl')
 
 # Fitur penting
 important_features = [
