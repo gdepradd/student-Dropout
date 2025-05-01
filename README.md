@@ -70,7 +70,7 @@ Dashboard ini digunakan untuk memberikan gambaran visual terkait analisis data D
 ```
 streamlit run app.py
 ```
-**link Streamlite :**
+**link** [Streamlite](https://student-dropout-tcal6grcnfkzbbqdexoifv.streamlit.app/)
 
 ## Conclusion
 Berdasarkan permasalahan diatas dapat disimpulkan bawah ada beberapa faktor yang mempengaruhi mahasiswa di dropout yaitu :
